@@ -4,7 +4,7 @@ This is my personal portfolio website showcasing my skills, projects, and contac
 
 ## 🚀 Live Demo
 
-Check it out here: [https://yourusername.github.io/your-repo-name](https://yourusername.github.io/your-repo-name)
+Check it out here: [https://yourusername.github.io/your-repo-name](https://github.com/Bharath-690)
 
 ## 📂 Features
 
