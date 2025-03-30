@@ -26,7 +26,7 @@ Check it out here: [https://yourusername.github.io/your-repo-name](https://youru
 Want to get in touch?
 
 - Email: nesaibharath69@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- LinkedIn: [linkedin.com/in/yourprofile]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/nesai-bharath-741349293))
 
 ---
 
