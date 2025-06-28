@@ -861,3 +861,55 @@ h2.section-title {
     font-size: 14px;
     margin-top: 40px;
   }
+/* === Mobile Responsive Fixes === */
+@media (max-width: 768px) {
+  nav ul.nav-links {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  .header-content {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .text-content {
+    max-width: 100%;
+  }
+
+  .details-grid,
+  .skills-grid,
+  .achievements-grid,
+  .project-grid,
+  .hobbies-grid,
+  .contact-container {
+    grid-template-columns: 1fr !important; /* Stack cards */
+    flex-direction: column !important;
+    gap: 1rem;
+  }
+
+  .profile-pic {
+    width: 100%;
+    max-width: 250px;
+    margin: 0 auto;
+  }
+
+  section {
+    padding: 1rem;
+    margin: 1rem;
+  }
+
+  .highlight-title {
+    font-size: 2.2rem;
+  }
+
+  .resume-button {
+    padding: 0.5rem 0.8rem;
+    font-size: 0.9rem;
+  }
+
+  .header-buttons {
+    flex-direction: column;
+  }
+}
